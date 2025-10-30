@@ -4,6 +4,7 @@ PHASE 1: WEBSITE DEPLOYMENT AND HOSTING
    This project begins with AWS Amplify, a fully managed service that simplifies web applications. It uploads the sites' static files to an Amazon S3 bucket where they are safely stored. 
    
    Amplify-> S3: Amplify deploys and stores the files in s3 bucket
+   
    S3-> Amplify: When a user visits the site from their browser, Amplify fetches those files from the S3 bucket and serves them to the user.
      S3 is the storage layer while Amplify is the deployment and delivery layer.
 
