@@ -1,3 +1,6 @@
+
+LIVE DEMO: https://livedemo.dvbqgmw7hph4l.amplifyapp.com/
+
 This project is a cloud based web hosting and monitoring system that uses AWS services to deploy, manage and secure a static website. The main goal of the architecture is to make the website always available to users while automatically monitoring all activities and sending alerts if anything suspicious occurs. The workflow is made up of differect phases.
 
 PHASE 1: WEBSITE DEPLOYMENT AND HOSTING
